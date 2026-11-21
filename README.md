@@ -1,6 +1,14 @@
 # Libro PADDS
 
-Después de una visita domiciliaria, una indicación puede quedar en manos de otro integrante del equipo. Desarrollé Libro PADDS para coordinar ese relevo en el programa de atención domiciliaria a personas con dependencia severa. El profesional registra lo acordado desde su ruta y el equipo puede consultar qué quedó pendiente y a quién le corresponde.
+Desarrollé Libro PADDS para organizar las visitas domiciliarias a personas con dependencia severa. Antes de salir, el equipo arma la ruta del día: selecciona a los pacientes, asigna cada visita a un profesional y ordena el recorrido.
+
+## Mi ruta en el celular
+
+Cada profesional abre **Mi ruta** para ver qué pacientes le toca visitar ese día y en qué orden. Al tocar una visita, puede consultar el domicilio y el motivo de la atención en terreno, sin llevar una lista en papel.
+
+<img src="capturas/mi-ruta-celular.png" alt="Mi ruta en el celular en modo de prueba, con dos visitas asignadas y la primera abierta en Calle Sintética 266" width="330">
+
+En este ejemplo ficticio hay dos visitas pendientes. La primera está abierta y muestra **Calle Sintética 266**. Desde esa misma pantalla, el profesional puede registrar el resultado de la visita. Si queda una tarea para otro integrante del equipo, puede asignarla y darle seguimiento.
 
 ## El recorrido de una curación
 
